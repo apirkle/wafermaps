@@ -1,3 +1,7 @@
+# Introduction
+
+This is a vibe coding experiment testing the capabilities of Cursor and GPT-5. Dev chat logs are in `cursor_dev_chat1.md` and `cursor_dev_chat2.md`.
+
 # WaferMaps - Semiconductor Fab Defect Data System
 
 A comprehensive web application for managing and visualizing semiconductor wafer inspection data, defects, and analytics in a semiconductor fabrication facility.
